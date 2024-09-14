@@ -5,3 +5,4 @@ Files and code for assignment 1, including:
 - Miller_Camden_Assignment_1.py (Code ran on GCP)
 - Miller_Camden_Assignment_1.docx (Outputs from GCP)
 - Miller_Camden_Assignment_1_Cluster_History.png (Proof of running on GCP)
+- Tw0 GCP Output .txt Files
